@@ -233,6 +233,7 @@ https://oshwlab.com/wagiminator/attiny13-tinyprobe
 # BOM
 
 ID	  Name	       Designator	        Footprint	          Quantity
+
 1	  MSK-11027	        KEY1	        SW_SMD_MSK-11027	        1
 
 2	    470R	         R3,R5,R4	            0603	              3
