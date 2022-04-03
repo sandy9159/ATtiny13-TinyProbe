@@ -273,4 +273,6 @@ For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
+# HOW TO ORDER PCB FROM [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
+https://jlcpcb.com/video/homeOrderVideo.mp4
