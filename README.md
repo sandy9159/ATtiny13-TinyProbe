@@ -234,10 +234,15 @@ https://oshwlab.com/wagiminator/attiny13-tinyprobe
 
 ID	  Name	       Designator	        Footprint	          Quantity
 1	  MSK-11027	        KEY1	        SW_SMD_MSK-11027	        1
+
 2	    470R	         R3,R5,R4	            0603	              3
+
 3	    10k	            R2,R1	              0603	              2
+
 4	    100k	            R6	              0603	              1
+
 5	    HI	            LED2	             LED0603	            1
+
 
 
 ![image](https://user-images.githubusercontent.com/19898602/161411570-543b17e3-c6e9-4a28-a7b8-2a7527b9e4a0.png)
