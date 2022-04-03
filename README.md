@@ -273,7 +273,7 @@ For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
-# HOW TO ORDER PCB FROM [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
+# HOW TO ORDER PCB FROM [JLCPCB.com](https://jlcpcb.com/IAT)
 
 ![TinyProbe - Simple Logic Probe - ATtiny13A (1)_1](https://user-images.githubusercontent.com/19898602/161423592-ab74d959-b412-4c82-8af1-d26c57d794fd.gif)
 
