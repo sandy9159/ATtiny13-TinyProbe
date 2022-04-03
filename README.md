@@ -207,5 +207,64 @@ Connect your programmer to your PC and to the ATtiny.
 
 > Run "make install" to compile, burn the fuses and upload the firmware.
 
+![TinyProbe - Simple Logic Probe - ATtiny13A (1)](https://user-images.githubusercontent.com/19898602/161422833-b9eecc56-c5e3-4865-9a22-5c2bf608bd79.gif)
+
+
+If you guys really want to order PCB for this tiny probe don't worry I have all the reuired files for you, just download or edit them and order PCB for this tinny probe. 
+
+I suggest you to please try [JLCPCB.com](https://jlcpcb.com/IAT) to order your PCB
+
+# CIRCUIT DIAGRAM 
+
+![image](https://user-images.githubusercontent.com/19898602/161422940-b37dda09-4199-4494-95c6-f485831614ea.png)
+
+This is the link of circuit diagram 
+https://oshwlab.com/wagiminator/attiny13-tinyprobe
+
+
+# CUSTOM PCB
+
+![image](https://user-images.githubusercontent.com/19898602/161423013-55474e67-d871-422f-aaf0-8da571b02c4e.png) ![image](https://user-images.githubusercontent.com/19898602/161423027-3389d49a-e395-4f07-9f03-3b51d8576fb4.png)
+
+
+This is the link to to download or edit the gerber file of tiny PROBE proejct 
+https://oshwlab.com/wagiminator/attiny13-tinyprobe
+
+# BOM
+
+ID	  Name	       Designator	        Footprint	          Quantity
+1	  MSK-11027	        KEY1	        SW_SMD_MSK-11027	        1
+2	    470R	         R3,R5,R4	            0603	              3
+3	    10k	            R2,R1	              0603	              2
+4	    100k	            R6	              0603	              1
+5	    HI	            LED2	             LED0603	            1
+
+
+![image](https://user-images.githubusercontent.com/19898602/161411570-543b17e3-c6e9-4a28-a7b8-2a7527b9e4a0.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $27 valued New User coupon  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $27 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+[Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
 
